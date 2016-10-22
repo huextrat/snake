@@ -19,6 +19,6 @@ Si vous voulez l'améliorer ou si vous avez un problème avec le code vous pouve
 - Options à découvrir ( surprise ) !
 
 Je vous laisse avec quelques images du jeu :
-![alt tag](http://i.imgur.com/zFMtwSM.png)
-![]({{site.baseurl}}/http://imgur.com/XrxpHWp)
-![]({{site.baseurl}}/http://imgur.com/Q9ednzd)
+![stack Overflow](http://i.imgur.com/zFMtwSM.png)
+![alt tag](http://imgur.com/XrxpHWp)
+![alt tag](http://imgur.com/Q9ednzd)
