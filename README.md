@@ -18,8 +18,16 @@ Si vous voulez l'améliorer ou si vous avez un problème avec le code vous pouve
 - Sauvegarde des scores dans un fichier texte
 - Options à découvrir ( surprise ) !
 
-Je vous laisse avec quelques images du jeu :
+### Je vous laisse avec quelques images du jeu :
+
+### Menu
 
 ![Preview](http://i.imgur.com/zFMtwSM.png)
+
+### Mode 1 joueur
+
 ![alt tag](http://i.imgur.com/XrxpHWp.png)
+
+### Mode 2 joueurs
+
 ![alt tag](http://i.imgur.com/Q9ednzd.png)
