@@ -26,8 +26,8 @@ Si vous voulez l'améliorer ou si vous avez un problème avec le code vous pouve
 
 ### Mode 1 joueur
 
-![alt tag](http://i.imgur.com/XrxpHWp.png)
+![Preview](http://i.imgur.com/XrxpHWp.png)
 
 ### Mode 2 joueurs
 
-![alt tag](http://i.imgur.com/Q9ednzd.png)
+![Preview](http://i.imgur.com/Q9ednzd.png)
